@@ -11,3 +11,8 @@
 <div align="center">
 	| <a href="https://github.com/LeonelIvann/Coder-House-Final-Project">Pide Tres Deseos (First Project)</a> | <a href="https://github.com/LeonelIvann/Exotic_Club">Exotic Club</a> | <a href="https://github.com/LeonelIvann/MiTarea">MiTarea</a> | 
 </div>
+
+### <strong> MiTarea </strong>
+[![Netlify Status](https://api.netlify.com/api/v1/badges/97891ccd-432f-4caf-aac6-dcc952413492/deploy-status)](https://app.netlify.com/sites/mitarea-pendiente/deploys)
+### <strong> Exotic Club </strong>
+Se encuentra disponible en 000webhost, haga click al siguiente enlace <a href="https://cursodevfs.000webhostapp.com/"> Exotic Club </a>
