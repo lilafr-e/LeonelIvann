@@ -5,7 +5,7 @@
 Projects
 They are the ones to whom I spent the most time and with whom I learned the most, that is why I feel that they were important to me.
 <div align="left">
-<a href="https://github.com/LeonelIvann/Coder-House-Final-Project">Pide Tres Deseos (First Project)</a> | <a href="https://github.com/LeonelIvann/Exotic_Club">Exotic Club</a> | <a href="https://github.com/LeonelIvann/MiTarea">MiTarea</a> | 
+<a href="https://github.com/LeonelIvann/Coder-House-Final-Project">Pide Tres Deseos (First Project)</a> | <a href="https://github.com/LeonelIvann/Exotic_Club">Exotic Club</a> | <a href="https://github.com/LeonelIvann/MiTarea">MiTarea</a> | <a href="https://github.com/LeonelIvann/Technika-Store">Technika</a>
 </div>
 
 ## 🛠️ Knowledge
