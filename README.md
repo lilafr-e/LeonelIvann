@@ -2,7 +2,7 @@
 Projects
 They are the ones to whom I spent the most time and with whom I learned the most, that is why I feel that they were important to me.
 <div align="left">
-<a href="https://github.com/LeonelIvann/MascotasPico-Railway-NodeJS">MascotasPico</a> | <a href="https://github.com/LeonelIvann/Coder-House-Final-Project">Pide Tres Deseos</a> | <a href="https://github.com/LeonelIvann/Exotic_Club">Exotic Club</a> | <a href="https://github.com/LeonelIvann/MiTarea">MiTarea</a> | <a href="https://github.com/LeonelIvann/Technika-Store">Technika</a>
+<a href="https://mascotaspico.shop/">MascotasPico</a> | <a href="https://leonelivann.github.io/PicoD3v/">PicoD3v</a> | <a href="https://cursodevfs.000webhostapp.com/">Exotic Club</a> | <a href="https://mitarea-pendiente.netlify.app/">MiTarea</a> | <a href="https://leonelivann.github.io/Technika-Store/">T̶e̶c̶h̶n̶i̶k̶a̶</a>
 </div>
 
 ## 🛠️ Knowledge
